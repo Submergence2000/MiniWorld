@@ -1,34 +1,32 @@
 # MiniWorld
-南京大学失物招领平台 (Lost & Found in NJU)
-## 前言
-作为NJUer的你，总是丢三落四吗？<br />
-你是否需要一个更方便快捷的失物招领平台？<br />
-你是否想要及时便捷发布、信息动态查找？<br />
-这正是我们在做的！<br />
-欢迎使用南京大学失物招领平台~<br />
-基于方便快捷的微信小程序，<br />
-实时便捷发布招领寻物信息，<br />
-便于管理信息的个人信息页，<br />
-清晰的信息列表显示，<br />
-动态精准的搜索功能，<br />
-简洁明了的详情界面，<br />
-以及更多还在实现过程中和构想中的功能……<br />
-为南大服务，为师生解忧。<br />
-愿每一个不慎丢物的南大人<br />
-都能感受到校园的爱与温暖。<br />
+Nanjing University Lost & Found Platform (Lost & Found in NJU)
 
-## 功能
-- [x] 发布
-- [x] 浏览
-- [x] 搜索
-- [x] 物品详情
-- [x] 个人中心
-- [x] 信息管理
+## Introduction
+Are you an NJUer who frequently misplaces personal items? 
+Do you require a more efficient, easily accessible lost & found platform?
+Are you keen on a service that allows for swift, convenient posting and dynamic information retrieval?
+That’s precisely what we're working on!
+Welcome to the Nanjing University Lost & Found platform –
+Designed as an easy-to-use WeChat Mini-Program, we offer:
+•	The facility for real-time publishing of lost & found information,
+•	A personal info page for effortless data management,
+•	A clear information list display,
+•	A dynamic and precise search function,
+•	A simple, lucid interface for detailed information,
+•	And a host of other features currently in development or conceptualization.
+We are dedicated to serving Nanjing University and relieving the concerns of faculty and students.
+We hope that every NJU member who has inadvertently lost an item
+will feel the warmth and care of our campus community.
 
-## 实现效果
-![image](https://XXXXXX.jpg) 
+## Features
+- [x] Post Lost & Found Items
+- [x] Browse Listings
+- [x] Search Database
+- [x] Detailed Information About Items
+- [x] Personal User Center
+- [x] Information Management
 
-## 运行
-需要安装有微信开发者工具。
-把项目下载到本地。
-在微信开发者工具中打开该项目则可预览。
+## How to Run
+You'll need to have the WeChat Developer Tools installed.
+Download the project onto your local system.
+You can then preview the project using the WeChat Developer Tools.
