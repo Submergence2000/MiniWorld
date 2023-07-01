@@ -15,10 +15,15 @@ Welcome to the Nanjing University Lost & Found platform –
 Designed as an easy-to-use WeChat Mini-Program, we offer:
 
 •	The facility for real-time publishing of lost & found information,
+
 •	A personal info page for effortless data management,
+
 •	A clear information list display,
+
 •	A dynamic and precise search function,
+
 •	A simple, lucid interface for detailed information,
+
 •	And a host of other features currently in development or conceptualization.
 
 We are dedicated to serving Nanjing University and relieving the concerns of faculty and students.
